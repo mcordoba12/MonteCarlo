@@ -1,0 +1,15 @@
+<state>
+  <timestamp value='1729784125771' />
+  <sourceSet name='default'>
+    <source name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\pil.ice'>
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\Worker.java' />
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\Master.java' />
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\WorkerPrx.java' />
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\_WorkerPrxI.java' />
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\MasterPrx.java' />
+      <file name='C:\Users\angel\Documents\5 Quinto semestre\Compunet I\pi\client\build\generated-src\MonteCarlo\_MasterPrxI.java' />
+    </source>
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>
