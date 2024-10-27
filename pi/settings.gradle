@@ -9,4 +9,5 @@ rootProject.name = 'pi'
 include 'client'
 include 'server'
 include  'worker'
+include  'test'
 
